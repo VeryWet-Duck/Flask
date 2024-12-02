@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "email": "alice@example.com",
+        "role": "Guest"
+    },
+    {
+        "id": 2,
+        "name": "Bob Dylan",
+        "email": "Bob@gmail.com",
+        "role": "Manager"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Charleston",
+        "email": "Charles@example.com",
+        "role": "User"
+    },
+    {
+        "id": 4,
+        "name": "Theis",
+        "email": "EzrealOG@gmail.com",
+        "role": "Admin"
+    },
+    {
+        "id": 5,
+        "name": "Aaron",
+        "email": "Aaron@example.com",
+        "role": "Admin"
+    },
+    {
+        "id": 6,
+        "name": "andads",
+        "email": "?2@22",
+        "role": "Admin"
+    }
+]
